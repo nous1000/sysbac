@@ -70,7 +70,7 @@ Archivos - editarOs.php ( linea 67)  y  os.php (linea 74)
 
 Archivo - painel.php (linea 112)
 
-Cualquier duda consultar Y NO OLVIDEIS DAR LAS GRACIAS!!! 
+Cualquier duda consultar !!! 
 
 
 
